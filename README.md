@@ -1,0 +1,1 @@
+![alt text](https://github.com/MamNonDevOps/static-web-4/blob/main/images/index.png)
